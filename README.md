@@ -1,3 +1,6 @@
+The json files in this repo are a modified version of the official Istio Dashboard from `https://github.com/istio/istio/tree/master/manifests/addons/dashboards`.
+just add the cluster variable  to the Dashboard to facilitate viewing multiple clusters.
+
 ## Import a dashboard
 
 To import a dashboard, follow these steps:
